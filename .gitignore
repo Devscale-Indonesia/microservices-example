@@ -1,0 +1,8 @@
+users/node_modules
+users/dist
+comments/node_modules
+comments/dist
+posts/node_modules
+posts/dist
+api-gateway/node_modules
+api-gateway/dist
